@@ -5,12 +5,12 @@ This project contains solutions for the two required assignments using Java and 
 ## Assignments
 
 ### Assignment 1: Producer-Consumer Pattern
-Implements a classic Producer-Consumer problem using a custom `SharedBuffer` with thread synchronization (`wait` and `notify`).
+This section implements a classic Producer-Consumer problem using a custom `SharedBuffer` with thread synchronization (`wait` and `notify`).
 *   **Source Code**: `src/main/java/com/assignment/assignment1/`
 *   **Key Classes**: `SharedBuffer`, `Producer`, `Consumer`
 
 ### Assignment 2: Data Analysis
-Performs analysis on sales data (CSV format) using Java Streams and Functional Programming.
+This section performs an analysis on sales data (CSV format) using Java Streams and Functional Programming.
 *   **Source Code**: `src/main/java/com/assignment/assignment2/`
 *   **Key Classes**: `SalesAnalyzer`, `SalesRecord`
 *   **Data**: `src/main/resources/sales_data.csv`
