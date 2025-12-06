@@ -1,0 +1,11 @@
+Date,Category,Product,Quantity,UnitPrice
+2023-01-01,Electronics,Laptop,5,1000.00
+2023-01-01,Electronics,Earphones,10,10.00
+2023-01-02,Clothing,Jeans,50,45.00
+2023-01-02,Clothing,Jacket,20,30.00
+2023-01-03,Electronics,Speakers,8,100.00
+2023-01-03,Home,Mixer,15,50.00
+2023-01-04,Electronics,Laptop,3,1000.00
+2023-01-04,Home,Microwave,12,50.00
+2023-01-05,Clothing,Blazer,5,80.00
+2023-01-05,Electronics,Headphones,25,50.00
